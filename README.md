@@ -1,0 +1,1 @@
+Simply, you need to run the IDM_enhanced_v7.exe file and you are good to go 
